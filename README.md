@@ -3,6 +3,8 @@ Developer's Favicon Set
 
 Simple favicon set for developers.
 
+![screenshot](https://raw.githubusercontent.com/ryochin/developer-favicon/master/screenshot.png)
+
 Icons
 -----
 
@@ -52,7 +54,7 @@ Notes
 -----
 
 * 32x32 size
-* To edit source.psd you need font named `Keyboard-JP-Regular.otf` by [keyboard-font](https://github.com/n-yuji/keyboard-font).
+* To edit source.psd you need font named `Keyboard-JP-Regular.otf` by [n-yuji/keyboard-font](https://github.com/n-yuji/keyboard-font).
 
 License
 -------
