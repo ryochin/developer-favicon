@@ -1,7 +1,9 @@
-Developer's Favicon Set
-=======================
+Web Developer's Favicon Set
+===========================
 
-Simple favicon set for developers.
+[![CC0](http://img.shields.io/badge/license-CC0-blue.svg?style=flat)](LICENSE)
+
+> Simple favicon set for web developers.
 
 ![screenshot](https://raw.githubusercontent.com/ryochin/developer-favicon/master/screenshot.png)
 
@@ -55,10 +57,10 @@ Icons
 Notes
 -----
 
-* 32x32 size
-* To edit source.psd you need font named `Keyboard-JP-Regular.otf` by [n-yuji/keyboard-font](https://github.com/n-yuji/keyboard-font).
+* 32x32 pixels
+* To edit source.psd you need the font named `Keyboard-JP-Regular.otf` by [n-yuji/keyboard-font](https://github.com/n-yuji/keyboard-font).
 
 License
 -------
 
-CC0 1.0 Universal, Public Domain. Completely free.
+CC0 1.0 Universal, Public Domain
