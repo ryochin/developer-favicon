@@ -18,12 +18,14 @@ Icons
 <link rel="shortcut icon" type="image/x-icon" href="/images/favicon_qa.ico">
 ```
 
-### for test servers
+### for test /demo servers
 
 ![test](https://raw.githubusercontent.com/ryochin/developer-favicon/master/favicon_test.ico)
+![test](https://raw.githubusercontent.com/ryochin/developer-favicon/master/favicon_demo.ico)
 
 ```html
 <link rel="shortcut icon" type="image/x-icon" href="/images/favicon_test.ico">
+<link rel="shortcut icon" type="image/x-icon" href="/images/favicon_demo.ico">
 ```
 
 ### for development servers
