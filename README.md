@@ -20,7 +20,12 @@ Icons
 <link rel="shortcut icon" type="image/x-icon" href="/images/favicon_qa.ico">
 ```
 
-### for test /demo servers
+```html
+<link rel="shortcut icon" type="image/svg+xml" href="/images/favicon_staging.svg">
+<link rel="shortcut icon" type="image/svg+xml" href="/images/favicon_qa.svg">
+```
+
+### for test / demo servers
 
 ![test](https://raw.githubusercontent.com/ryochin/developer-favicon/master/favicon_test.ico)
 ![test](https://raw.githubusercontent.com/ryochin/developer-favicon/master/favicon_demo.ico)
@@ -28,6 +33,11 @@ Icons
 ```html
 <link rel="shortcut icon" type="image/x-icon" href="/images/favicon_test.ico">
 <link rel="shortcut icon" type="image/x-icon" href="/images/favicon_demo.ico">
+```
+
+```html
+<link rel="shortcut icon" type="image/svg+xml" href="/images/favicon_test.svg">
+<link rel="shortcut icon" type="image/svg+xml" href="/images/favicon_demo.svg">
 ```
 
 ### for development servers
@@ -38,6 +48,10 @@ Icons
 <link rel="shortcut icon" type="image/x-icon" href="/images/favicon_development.ico">
 ```
 
+```html
+<link rel="shortcut icon" type="image/svg+xml" href="/images/favicon_development.svg">
+```
+
 ### for local servers
 
 ![local](https://raw.githubusercontent.com/ryochin/developer-favicon/master/favicon_local.ico)
@@ -46,12 +60,20 @@ Icons
 <link rel="shortcut icon" type="image/x-icon" href="/images/favicon_local.ico">
 ```
 
+```html
+<link rel="shortcut icon" type="image/svg+xml" href="/images/favicon_local.svg">
+```
+
 ### for local static files
 
 ![static](https://raw.githubusercontent.com/ryochin/developer-favicon/master/favicon_static.ico)
 
 ```html
 <link rel="shortcut icon" type="image/x-icon" href="/path/to/favicon_static.ico">
+```
+
+```html
+<link rel="shortcut icon" type="image/svg+xml" href="/path/to/favicon_static.svg">
 ```
 
 Notes
