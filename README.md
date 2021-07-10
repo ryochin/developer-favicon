@@ -79,8 +79,10 @@ Icons
 Notes
 -----
 
-* 32x32 pixels
-* To edit source.psd you need the font named `Keyboard-JP-Regular.otf` by [n-yuji/keyboard-font](https://github.com/n-yuji/keyboard-font).
+* `*.ico` files: 32x32 pixels
+* `*.png` files: 128x128 pixels
+* `*.svg` files: scalable (1,024x1,024 pixels internally)
+* To edit the source file, you need the font named `Keyboard-JP-Regular.otf` by [n-yuji/keyboard-font](https://github.com/n-yuji/keyboard-font).
 
 License
 -------
