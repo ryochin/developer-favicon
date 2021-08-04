@@ -12,6 +12,14 @@
     #fg path, #fg rect {
       fill: hsl(0,70%,50%);
     }
+    @media (prefers-color-scheme: dark) {
+      #bg path {
+        fill: hsl(0,70%,50%);
+      }
+      #fg path, #fg rect {
+        fill: hsl(0,50%,95%);
+      }
+    }
   </style>
   <g id="test">
     <g id="bg" transform="matrix(1125.27,0,0,1052.55,-50.6506,911.971)">
